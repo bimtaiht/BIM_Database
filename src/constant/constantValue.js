@@ -1,1 +1,0 @@
-export const TinyAPIKey = "4k5rb3dg9dmcj1s79urhl2sp8n6sn6a6ps0tt43szy3zs04s";
