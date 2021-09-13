@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/BIM_Database/static/css/main.e7a40c30.chunk.css",
-    "main.js": "/BIM_Database/static/js/main.39242649.chunk.js",
-    "main.js.map": "/BIM_Database/static/js/main.39242649.chunk.js.map",
-    "runtime-main.js": "/BIM_Database/static/js/runtime-main.dcbef27a.js",
-    "runtime-main.js.map": "/BIM_Database/static/js/runtime-main.dcbef27a.js.map",
+    "main.css": "/BIM_Database/static/css/main.a548c4d5.chunk.css",
+    "main.js": "/BIM_Database/static/js/main.116d7fd9.chunk.js",
+    "main.js.map": "/BIM_Database/static/js/main.116d7fd9.chunk.js.map",
+    "runtime-main.js": "/BIM_Database/static/js/runtime-main.47a6d48e.js",
+    "runtime-main.js.map": "/BIM_Database/static/js/runtime-main.47a6d48e.js.map",
     "static/css/2.acf941d6.chunk.css": "/BIM_Database/static/css/2.acf941d6.chunk.css",
-    "static/js/2.aa80f3c3.chunk.js": "/BIM_Database/static/js/2.aa80f3c3.chunk.js",
-    "static/js/2.aa80f3c3.chunk.js.map": "/BIM_Database/static/js/2.aa80f3c3.chunk.js.map",
-    "static/js/3.59aaf50b.chunk.js": "/BIM_Database/static/js/3.59aaf50b.chunk.js",
-    "static/js/3.59aaf50b.chunk.js.map": "/BIM_Database/static/js/3.59aaf50b.chunk.js.map",
+    "static/js/2.00ad7ddb.chunk.js": "/BIM_Database/static/js/2.00ad7ddb.chunk.js",
+    "static/js/2.00ad7ddb.chunk.js.map": "/BIM_Database/static/js/2.00ad7ddb.chunk.js.map",
+    "static/js/3.d66b1d60.chunk.js": "/BIM_Database/static/js/3.d66b1d60.chunk.js",
+    "static/js/3.d66b1d60.chunk.js.map": "/BIM_Database/static/js/3.d66b1d60.chunk.js.map",
     "index.html": "/BIM_Database/index.html",
     "static/css/2.acf941d6.chunk.css.map": "/BIM_Database/static/css/2.acf941d6.chunk.css.map",
-    "static/css/main.e7a40c30.chunk.css.map": "/BIM_Database/static/css/main.e7a40c30.chunk.css.map",
-    "static/js/2.aa80f3c3.chunk.js.LICENSE.txt": "/BIM_Database/static/js/2.aa80f3c3.chunk.js.LICENSE.txt"
+    "static/css/main.a548c4d5.chunk.css.map": "/BIM_Database/static/css/main.a548c4d5.chunk.css.map",
+    "static/js/2.00ad7ddb.chunk.js.LICENSE.txt": "/BIM_Database/static/js/2.00ad7ddb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcbef27a.js",
+    "static/js/runtime-main.47a6d48e.js",
     "static/css/2.acf941d6.chunk.css",
-    "static/js/2.aa80f3c3.chunk.js",
-    "static/css/main.e7a40c30.chunk.css",
-    "static/js/main.39242649.chunk.js"
+    "static/js/2.00ad7ddb.chunk.js",
+    "static/css/main.a548c4d5.chunk.css",
+    "static/js/main.116d7fd9.chunk.js"
   ]
 }
