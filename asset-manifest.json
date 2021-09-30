@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BIM_Database/static/css/main.7291a835.chunk.css",
-    "main.js": "/BIM_Database/static/js/main.0e3c9f8c.chunk.js",
-    "main.js.map": "/BIM_Database/static/js/main.0e3c9f8c.chunk.js.map",
+    "main.js": "/BIM_Database/static/js/main.9fb28370.chunk.js",
+    "main.js.map": "/BIM_Database/static/js/main.9fb28370.chunk.js.map",
     "runtime-main.js": "/BIM_Database/static/js/runtime-main.c1ec9934.js",
     "runtime-main.js.map": "/BIM_Database/static/js/runtime-main.c1ec9934.js.map",
     "static/css/2.acf941d6.chunk.css": "/BIM_Database/static/css/2.acf941d6.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.acf941d6.chunk.css",
     "static/js/2.4d03e13f.chunk.js",
     "static/css/main.7291a835.chunk.css",
-    "static/js/main.0e3c9f8c.chunk.js"
+    "static/js/main.9fb28370.chunk.js"
   ]
 }
