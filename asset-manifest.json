@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/BIM_Database/static/css/main.502b699c.chunk.css",
-    "main.js": "/BIM_Database/static/js/main.46f3d609.chunk.js",
-    "main.js.map": "/BIM_Database/static/js/main.46f3d609.chunk.js.map",
-    "runtime-main.js": "/BIM_Database/static/js/runtime-main.29e00f3a.js",
-    "runtime-main.js.map": "/BIM_Database/static/js/runtime-main.29e00f3a.js.map",
-    "static/css/2.a2d767fc.chunk.css": "/BIM_Database/static/css/2.a2d767fc.chunk.css",
-    "static/js/2.c1ab5db6.chunk.js": "/BIM_Database/static/js/2.c1ab5db6.chunk.js",
-    "static/js/2.c1ab5db6.chunk.js.map": "/BIM_Database/static/js/2.c1ab5db6.chunk.js.map",
-    "static/js/3.fba96c3f.chunk.js": "/BIM_Database/static/js/3.fba96c3f.chunk.js",
-    "static/js/3.fba96c3f.chunk.js.map": "/BIM_Database/static/js/3.fba96c3f.chunk.js.map",
-    "index.html": "/BIM_Database/index.html",
-    "static/css/2.a2d767fc.chunk.css.map": "/BIM_Database/static/css/2.a2d767fc.chunk.css.map",
-    "static/css/main.502b699c.chunk.css.map": "/BIM_Database/static/css/main.502b699c.chunk.css.map",
-    "static/js/2.c1ab5db6.chunk.js.LICENSE.txt": "/BIM_Database/static/js/2.c1ab5db6.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.css",
+    "main.js": "./static/js/main.js",
+    "main.js.map": "./static/js/main.js.map",
+    "static/css/1.chunk.css": "./static/css/1.chunk.css",
+    "static/js/1.chunk.js": "./static/js/1.chunk.js",
+    "static/js/1.chunk.js.map": "./static/js/1.chunk.js.map",
+    "static/js/2.chunk.js": "./static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "./static/js/2.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/1.chunk.css.map": "./static/css/1.chunk.css.map",
+    "static/css/main.css.map": "./static/css/main.css.map",
+    "static/js/1.chunk.js.LICENSE.txt": "./static/js/1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29e00f3a.js",
-    "static/css/2.a2d767fc.chunk.css",
-    "static/js/2.c1ab5db6.chunk.js",
-    "static/css/main.502b699c.chunk.css",
-    "static/js/main.46f3d609.chunk.js"
+    "static/css/1.chunk.css",
+    "static/js/1.chunk.js",
+    "static/css/main.css",
+    "static/js/main.js"
   ]
 }
